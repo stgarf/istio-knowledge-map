@@ -1,25 +1,25 @@
 # Istio Knowledge Map
 
-The [Istio](https://istio.io) knowledge map(Istio 知识图谱) is an open source project of [Istio Knowledge Map Working Group](https://github.com/orgs/servicemesher/teams/istio-knowledge-map-wg/members), it is a division of the [ServiceMesher](http://www.servicemesher.com) community that aims to enhance Service Mesh's theoretical learning and drive Service Mesh technology.
+The [Istio](https://istio.io) knowledge map(Istio Knowledge Graph) is an open source project of [Istio Knowledge Map Working Group](https://github.com/orgs/servicemesher/teams/istio-knowledge-map-wg/members), it is a division of the [ServiceMesher](http://www.servicemesher.com) community that aims to enhance Service Mesh's theoretical learning and drive Service Mesh technology.
 
 ![Istio knowledge map](png/istio-knowledge-map.png)
 
-## Istio 知识图谱阅览
+## Istio Knowledge Graph Reading
 
-Istio 知识图谱提供以下格式，点击下面的链接可以查看：
+Istio Knowledge Graph is available in the following formats, (click the link below to view)：
 
 - [Markdown](istio-knowledge-map.md)
 - [MindNode](mindnode)
 - [PDF](pdf/istio-knowledge-map.pdf)
 - [PNG](png/istio-knowledge-map.png)
 
-## 参与贡献
+## Contributing
 
-Istio 知识图谱 v0.1 在 [Google docs](https://docs.google.com/document/d/1nMAC9ZNH3NggQ_79vmdyog_2KtATKFofqP9f9K0rr7M/edit?ts=5c6ac5b7#heading=h.2nl61kfhbfx8) 上协作编辑，参与编辑请参考[贡献指南](CONTRIBUTING.md)。
+Istio Knowledge Graph v0.1 in [Google docs](https://docs.google.com/document/d/1nMAC9ZNH3NggQ_79vmdyog_2KtATKFofqP9f9K0rr7M/edit?ts=5c6ac5b7#heading=h.2nl61kfhbfx8) On collaborative editing, please refer to [Contribution Guide](CONTRIBUTING.md).
 
-## 致谢
+## Credits
 
-感谢 Istio 知识图谱工作组的全体人员，特别鸣谢以下参与贡献者：
+Thanks to everyone at the Istio Knowledge Graph Working Group, and special thanks to the following contributors:
 
 - [dreadbird](https://github.com/dreadbird)
 - [haiker2011](https://github.com/haiker2011)
@@ -33,14 +33,19 @@ Istio 知识图谱 v0.1 在 [Google docs](https://docs.google.com/document/d/1nM
 - [wujunze](https://github.com/wujunze)
 - [xianyuluo](https://github.com/xianyuluo)
 
-# 关于 Istio 知识图谱工作组
+# About the Istio Knowledge Graph Working Group
 
-[Istio 知识图谱工作组](https://github.com/orgs/servicemesher/teams/istio-knowledge-map-working-group/members)是 [ServiceMesher 社区](http://www.servicemesher.com)的一个分支，旨在通过协作加强 Service Mesh 的理论学习，共同学习，共同进步，同时推动 Service Mesh 技术的推广。
+[Istio Knowledge Graph Working Group](https://github.com/orgs/servicemesher/teams/istio-knowledge-map-working-group/members) Yes
 
-# 权限说明
+[ServiceMesher Community](http://www.servicemesher.com) A branch of the company, which aims to strengthen the theoretical learning of Service Mesh through collaboration, common learning, and common progress, while promoting the promotion of Service Mesh technology.
 
-本文档将在互联网范围内公开访问。ServiceMesher GitHub 组织中 [istio-knowledge-map](https://github.com/orgs/servicemesher/teams/istio-knowledge-map-working-group/members) team 中的成员将有权限编辑。
+# Privilege Description
 
-***本文档最终解释权归 [ServiceMesher 社区](http://www.servicemesher.com)所有。***
+This document will be publicly accessible on the Internet.
+
+ServiceMesher in GitHub
+[istio-knowledge-map](https://github.com/orgs/servicemesher/teams/istio-knowledge-map-working-group/members) Members of the team will have permission to edit.
+
+*** The final interpretation right of this document belongs to [ServiceMesher Community] (http://www.servicemesher.com). ***
 
 ![ServiceMesher](https://ws1.sinaimg.cn/large/006tKfTcly1g0cz6429t2j31jt0beq9s.jpg)
